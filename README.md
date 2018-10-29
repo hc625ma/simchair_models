@@ -1,6 +1,8 @@
 # simchair_models
 Simchair MKIII 3D printable models repository
 
+![Simchair MKIII](http://hc625ma.org/wp-content/uploads/2018/10/05310003.jpg)
+
 This repo contains all current (supported) models of Simchair MKIII project, sources and oriented STL files. 
 All the files are named using this scheme:
 peripheral_part_name_partnumber
